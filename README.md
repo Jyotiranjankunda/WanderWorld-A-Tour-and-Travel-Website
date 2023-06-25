@@ -74,4 +74,4 @@ Contributions are welcome! If you'd like to contribute to WanderWorld, please fo
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, please feel free to reach out to me at [contact@wanderworld.com](mailto:jrk2001.mymail@gmail.com). I would love to hear from you!
+If you have any questions, suggestions, or feedback, please feel free to reach out to me at [jrk2001.mymail@gmail.com](mailto:jrk2001.mymail@gmail.com). I would love to hear from you!
