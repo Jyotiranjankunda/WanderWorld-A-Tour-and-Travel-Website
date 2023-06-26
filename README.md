@@ -70,8 +70,4 @@ Contributions are welcome! If you'd like to contribute to WanderWorld, please fo
 ## Acknowledgments
 
 - The WanderWorld project was developed using React.js, a popular JavaScript library for building user interfaces.
-- We would like to express our gratitude to the open-source community for their valuable contributions and support.
-
-## Contact
-
-If you have any questions, suggestions, or feedback, please feel free to reach out to me at [jrk2001.mymail@gmail.com](mailto:jrk2001.mymail@gmail.com). I would love to hear from you!
+- I would like to express my gratitude to the open-source community for their valuable contributions and support.
